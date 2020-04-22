@@ -25,6 +25,7 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [Lennard's Solution](https://gitlab.com/LennardSchwarz/odinproject-tic-tac-toe) - [View in Browser](https://lennardschwarz.gitlab.io/odinproject-tic-tac-toe/)
 - [Alan Contreras's Solution](https://github.com/AlanContrerasM/Tic-Tac-Toe) - [View in Browser](https://alancontrerasm.github.io/Tic-Tac-Toe/)
 - [Zayeer's Solution (my own AI)](https://github.com/Zayeer/TIC-TAC-TOE) - [View in Browser](https://zayeer.github.io/TIC-TAC-TOE/)
 - [Arthur Abia's Solution (with own AI)](https://github.com/arthurabia/Tic-Tac-Toe) - [View in Browser](https://arthurabia.github.io/Tic-Tac-Toe/)
